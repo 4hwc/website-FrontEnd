@@ -1,5 +1,7 @@
 # website-FrontEnd
 
+[![Build Status](https://travis-ci.com/4hwc/website-FrontEnd.svg)](https://travis-ci.com/4hwc/website-FrontEnd)
+
 
 
 ## Main
