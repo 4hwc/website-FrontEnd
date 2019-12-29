@@ -14,3 +14,5 @@ https://stackoverflow.com/questions/55182629/deploy-angular-to-heroku-in-product
 
 https://codeforgeek.com/deploy-awesome-angular-app-heroku/
 
+https://www.agiratech.com/how-to-deploy-angular-application-to-heroku/
+
