@@ -10,3 +10,5 @@ https://www.google.com/search?q=heroku+angular&oq=heroku+angular&aqs=chrome..69i
 
 https://devcenter.heroku.com/articles/mean-apps-restful-api
 
+https://stackoverflow.com/questions/55182629/deploy-angular-to-heroku-in-production-mode
+
