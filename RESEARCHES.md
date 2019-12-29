@@ -4,3 +4,9 @@ https://www.google.com/search?q=An+unhandled+exception+occurred%3A+Object+protot
 
 https://stackoverflow.com/questions/57421582/typeerror-object-prototype-may-only-be-an-object-or-null-undefined-angular-8
 
+# heroku angular
+
+https://www.google.com/search?q=heroku+angular&oq=heroku+angular&aqs=chrome..69i57j0l4j69i60l3.8877j0j7&sourceid=chrome&ie=UTF-8
+
+https://devcenter.heroku.com/articles/mean-apps-restful-api
+
