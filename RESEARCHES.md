@@ -12,3 +12,5 @@ https://devcenter.heroku.com/articles/mean-apps-restful-api
 
 https://stackoverflow.com/questions/55182629/deploy-angular-to-heroku-in-production-mode
 
+https://codeforgeek.com/deploy-awesome-angular-app-heroku/
+
