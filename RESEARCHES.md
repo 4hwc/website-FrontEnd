@@ -16,3 +16,13 @@ https://codeforgeek.com/deploy-awesome-angular-app-heroku/
 
 https://www.agiratech.com/how-to-deploy-angular-application-to-heroku/
 
+# The command "npm run test -- --watch=false --no-progress --browsers=ChromeHeadlessNoSandbox" exited with 1
+
+https://www.google.com/search?q=The+command+%22npm+run+test+--+--watch%3Dfalse+--no-progress+--browsers%3DChromeHeadlessNoSandbox%22+exited+with+1&oq=The+command+%22npm+run+test+--+--watch%3Dfalse+--no-progress+--browsers%3DChromeHeadlessNoSandbox%22+exited+with+1&aqs=chrome..69i57.1418j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/angular/angular-cli/issues/12581
+
+https://github.com/karma-runner/karma-chrome-launcher/issues/154
+
+https://stackoverflow.com/questions/54692834/karma-test-parameter-watch-false-dont-work
+
